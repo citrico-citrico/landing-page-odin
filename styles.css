@@ -10,10 +10,21 @@ body{
 .header-logo{
     color: #f9faf8;
     font-size: 24px;
+    margin-right: 400px;
 }
 
 .header-links{
     list-style: none;
     color: #e5e7eb;
     font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    padding: 0;
+}
+
+.headers{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
