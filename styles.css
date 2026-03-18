@@ -11,3 +11,9 @@ body{
     color: #f9faf8;
     font-size: 24px;
 }
+
+.header-links li{
+    /* color: #e5e7eb; */
+    color: red;
+    font-size: 18px;
+}
