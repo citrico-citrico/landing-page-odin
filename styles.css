@@ -1,3 +1,9 @@
 body{
- font-family: Roboto, sans-serif;
+ font-family: Roboto, sans-serif, Helvetica;
+}
+
+.section-one,
+.footer{
+    background-color: #1f2937;
+
 }
