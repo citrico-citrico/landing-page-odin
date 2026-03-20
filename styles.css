@@ -34,3 +34,8 @@ body{
     font-weight: 900;
     color: #f9faf8;
 }
+
+.section-one p{
+    font-size: 18px;
+    color: #e5e7eb;
+}
