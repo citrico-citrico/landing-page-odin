@@ -28,3 +28,9 @@ body{
     flex-direction: row;
     justify-content: space-around;
 }
+
+.section-one h1{
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
