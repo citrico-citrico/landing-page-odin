@@ -47,10 +47,18 @@ body{
 .section-one{
     display: flex;
     flex-direction: column;
+    height: 700px;
 }
 
 .content-one{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
+
+}
+
+.section-one p{
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
 }
