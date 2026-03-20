@@ -38,3 +38,18 @@ body{
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.sign-up{
+    background-color: #3882f6;
+}
+
+.section-one{
+    display: flex;
+    flex-direction: column;
+}
+
+.content-one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
