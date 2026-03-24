@@ -85,6 +85,10 @@ body{
     gap: 50px;
     list-style: none;
 }
+.image-list img{
+    border: 5px solid #3882f6;
+    border-radius: 10px;
+}
 
 .image-list p{
     height: 75px;
