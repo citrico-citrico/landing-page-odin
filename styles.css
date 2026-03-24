@@ -82,7 +82,7 @@ body{
 .image-list{
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 50px;
     list-style: none;
 }
 
@@ -90,7 +90,7 @@ body{
     height: 75px;
     width: 150px;
     text-align: center;
-    margin-left: 25px;
+    margin-left: 20px;
     font-size: 18px;
     color: gray;
 }
