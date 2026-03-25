@@ -116,9 +116,14 @@ body{
     font-size: 36px;
     color: #1f2937;
     font-weight: 300;
+    margin-bottom: 0px;
 }
 
 .section-three .full-quote{
-    width: 700px;
+    width: 800px;
     height: 300px;
+}
+
+.author{
+    margin-left: 630px;
 }
