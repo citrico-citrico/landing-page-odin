@@ -101,7 +101,7 @@ body{
 }
 
 .section-two{
-    margin-bottom: 110px;
+    margin-bottom: 90px;
 }
 
 .section-three{
@@ -110,12 +110,12 @@ body{
     display: flex;
     justify-content: center;
     align-content: center;
-}
-
-.section-three p{
     font-size: 36px;
     color: #1f2937;
     font-weight: 300;
+}
+
+.section-three p{
     margin-bottom: 0px;
 }
 
@@ -125,5 +125,7 @@ body{
 }
 
 .author{
-    margin-left: 630px;
+    margin-left: 590px;
+    font-size: 20px;
+    font-weight: 900;
 }
