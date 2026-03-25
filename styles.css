@@ -107,6 +107,9 @@ body{
 .section-three{
     background-color: #e5e7eb;
     padding: 100px 0px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 
 .section-three p{
@@ -117,5 +120,5 @@ body{
 
 .full-quote{
     width: 500px;
-    height: 300px
+    height: 300px;
 }
