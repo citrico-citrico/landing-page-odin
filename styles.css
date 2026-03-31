@@ -151,6 +151,7 @@ body{
     display: flex;
     justify-content: center;
     flex-direction: column;
+    color: #e5e7eb;
 }
 
 .section-four h1,
