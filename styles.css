@@ -136,4 +136,5 @@ body{
     width: 1200px;
     background-color: #3882f6;
     margin: 120px auto;
+    display: flex;
 }
