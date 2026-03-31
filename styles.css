@@ -139,3 +139,8 @@ body{
     display: flex;
     border-radius: 10px;
 }
+
+.section-four .sign-up{
+    border-color: #e5e7eb;
+    border: 4px;
+}
