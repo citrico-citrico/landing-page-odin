@@ -149,7 +149,7 @@ body{
     flex-direction: column;
     padding: 8px 25px;
     justify-content: center; */
-    
+    margin-top: 50px;
     height: fit-content
 }
 
