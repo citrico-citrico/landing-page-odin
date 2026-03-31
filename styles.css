@@ -147,6 +147,12 @@ body{
     
 }
 
+.section-four .box-information{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
 .section-four h1,
 .section-four p{
     margin: 0;
