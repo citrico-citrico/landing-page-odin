@@ -145,10 +145,6 @@ body{
     border-color: #e5e7eb;
     border: 1px;
     border-style: solid;
-    /* display: flex;
-    flex-direction: column;
-    padding: 8px 25px;
-    justify-content: center; */
     margin-top: 50px;
     height: fit-content
 }
@@ -163,4 +159,11 @@ body{
 .section-four h1,
 .section-four p{
     margin: 0;
+}
+
+.footer{
+    padding: 25px 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
