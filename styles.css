@@ -137,4 +137,5 @@ body{
     background-color: #3882f6;
     margin: 120px auto;
     display: flex;
+    border-radius: 10px;
 }
