@@ -143,8 +143,14 @@ body{
 
 .section-four .sign-up{
     border-color: #e5e7eb;
-    border: 4px;
+    border: 1px;
+    border-style: solid;
+    /* display: flex;
+    flex-direction: column;
+    padding: 8px 25px;
+    justify-content: center; */
     
+    height: fit-content
 }
 
 .section-four .box-information{
